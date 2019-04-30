@@ -1,11 +1,21 @@
 h1 {
     text-align: center;
     font-family: 'Lato', sans-serif;
-    font-size: 64px;
+    font-size: 4em;
 }
 
 p.contact_info {
     text-align: center;
     font-family: 'Ubuntu', serif;
-    font-size: 16px;
+    font-size: 1em;
+}
+
+h2 {
+    text-align: left;
+    text-transform: uppercase;
+    text-indent: 5%;
+    font-weight: bold;
+    font-family: 'Lato', serif;
+    font-size: 2em;
+    line-height: 2;
 }
